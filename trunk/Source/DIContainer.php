@@ -140,6 +140,7 @@ class DIContainer
 	$code .= ";";
         eval($code);
 	return $res;
+        
     }
 }
 
