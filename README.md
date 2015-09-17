@@ -1,6 +1,6 @@
 # dcp-di-php
 Automatically exported from code.google.com/p/dcp-di-php
-This container is used for resolve dependencies
+Simple php dependency injection container.
 
 Example:
 
